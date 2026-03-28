@@ -1,2 +1,2 @@
-# Only-HTML5-Project---Resume-
+# HTML5-Project-Resume
 I recently started my Modern Web & App Development journey and built a resume using pure HTML. In this project, I used semantic tags like header, section, article, and footer to structure content in a clean and organized way. It helped me understand how to create readable layouts, improve accessibility, and follow basic ATS-friendly structure. This project also strengthened my fundamentals in HTML and page structuring.
